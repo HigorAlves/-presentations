@@ -10,3 +10,8 @@
 
 ### [04/12/2018 - LISP Linguagem de Programação](https://github.com/HigorAlves/-presentations/blob/master/LISP%20Linguagem%20de%20Programac%CC%A7a%CC%83o.pdf)
 > **Resumo**
+
+### 20/11/2017 Como a Inovação pode mudar a Educação
+> **Nível**: Iniciante
+
+> **Evento**: E se - Instituto Federal de Minas Gerais - Formiga/MG
