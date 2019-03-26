@@ -15,17 +15,12 @@
 
 > Real Time no React Native, consolidando conhecimentos sobre como o RN trabalha com web socket e renderização em tempo real consumindo o mínimo possível de processamento com a atualização do DOM.
 
-<<<<<<< HEAD
-### [04/12/2018 - LISP Linguagem de Programação](https://github.com/HigorAlves/-presentations/blob/master/LISP%20Linguagem%20de%20Programac%CC%A7a%CC%83o.pdf)
-> **Resumo**
+### [04/12/2018 - LISP Linguagem de Programação](https://github.com/HigorAlves/-presentations/tree/master/LISP_Linguagem_dde_Programa%C3%A7%C3%A3o_04:12:2018)
+>**Nível**: Iniciante
+
+> **Resumo**: Aprendando um pouco sobre a Linguagem LISP
 
 ### 20/11/2017 Como a Inovação pode mudar a Educação
 > **Nível**: Iniciante
 
 > **Evento**: E se - Instituto Federal de Minas Gerais - Formiga/MG
-=======
-### [04/12/2018 - LISP Linguagem de Programação](https://github.com/HigorAlves/-presentations/tree/master/LISP_Linguagem_dde_Programa%C3%A7%C3%A3o_04:12:2018)
->**Nível**: Iniciante
-
-> **Resumo**: Aprendando um pouco sobre a Linguagem LISP
->>>>>>> 8f9a46fe90832e486e427250149e2b37be518a07
