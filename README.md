@@ -1,6 +1,14 @@
 # Apresentações, Talks e Palestras feitas por ai :metal:
 ## By [Higor Alves](https://github.com/HigorAlves)
 
+### [05/04/2019] Desenvolvendo um WebGame]()
+>**Nível**: Iniciante
+
+>**Evento**: WebDevDay #02, Things Hacker Team - São João del Rei
+>[REPO](https://github.com/THTBrasil/rock-paper-scissors-)
+
+>Aprendendo os conceitos basico para desenvolvimento de sites com HTML, CSS e JavaScript para se construir aplicações com JS puro e interações com o DOM.
+
 ### [15/04/2019 Iniciando em JavaScript](https://github.com/HigorAlves/-presentations/tree/master/Iniciando_em_Javascript_15:03:2019)
 >**Nível**: Iniciante
 
