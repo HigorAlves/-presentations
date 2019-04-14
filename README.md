@@ -20,7 +20,7 @@
 
 > **Resumo**: Aprendando um pouco sobre a Linguagem LISP
 
-### 20/11/2017 Como a Inovação pode mudar a Educação
+### [20/11/2017 Como a Inovação pode mudar a Educação](https://github.com/HigorAlves/-presentations/tree/master/Como_inovacao_pode_mudar_educacao_20:11:2017)
 > **Nível**: Iniciante
 
 > **Evento**: E se - Instituto Federal de Minas Gerais - Formiga/MG
