@@ -5,6 +5,7 @@
 >**Nível**: Iniciante
 
 >**Evento**: WebDevDay #02, Things Hacker Team - São João del Rei
+
 >[REPO](https://github.com/THTBrasil/rock-paper-scissors-)
 
 >Aprendendo os conceitos basico para desenvolvimento de sites com HTML, CSS e JavaScript para se construir aplicações com JS puro e interações com o DOM.
