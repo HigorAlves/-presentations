@@ -1,6 +1,18 @@
 # Apresentações, Talks e Palestras feitas por ai :metal:
 ## By [Higor Alves](https://github.com/HigorAlves) :unicorn:
 
+### [02/07/2019 Workflow de desenvolvimento usando docker]
+> Submindo os slides
+
+### [15/06/2019 NodeJs Formas e Caches]
+> Submindo os slides
+
+>**Nível**: Senior
+
+>**Evento**: The Developers Conference - Belo Horizonte - Minas Gerais
+
+>**Descrição**: Alguns dos principais conceitos para todos os mecanismos e engines que usam JavaScript, para que como desenvolvedor, você tenha um maior conhecimento sobre o funcionamento da V8, conhecer um pouco de suas entranhas faz com que isto lhe ajude a raciocinar sobre as características de desempenho que o seu código pode prover.
+
 ### [03/05/2019 Desenvolvendo um site Lindo igual meu reflexo no Espelho](https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/261105224/)
 >**Nível**: Intermediario
 
